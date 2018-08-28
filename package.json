@@ -8,6 +8,10 @@
     "dev": "cd backend && npm run dev & cd frontend && npm run serve & ",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "janikgar",
+  "repository" : {
+    "type": "git",
+    "url" : "https://github.com/janikgar/sails-test"
+  },
   "license": "MIT"
 }
